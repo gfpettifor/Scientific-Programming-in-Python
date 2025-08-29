@@ -9,8 +9,7 @@ Homework 8 specification:
 https://drive.google.com/file/d/1Hfrk-36jk7Ql9JKX4VX8iNfVYIy66-DY/view?usp=drive_link
 
 The project specification:
-# Exoplanets
-Aim: explore exoplanets and their host stars using matplotlib visualisations and the tabulated data from http://exoplanet.eu/catalog/
+Explore exoplanets and their host stars using matplotlib visualisations and the tabulated data from http://exoplanet.eu/catalog/
 You could consider:
 • Kepler’s Laws
 • Exoplanet mass determination from radial velocity

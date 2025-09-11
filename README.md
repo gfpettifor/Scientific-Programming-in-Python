@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1hPsAQXBlE7YIcpiq2FxsJOn7ArgB6JuG/view?usp=drive
 # The project specification:
 Explore exoplanets and their host stars using matplotlib visualisations and the tabulated data from http://exoplanet.eu/catalog/
 You could consider:
-• Kepler’s Laws \n
-• Exoplanet mass determination from radial velocity \n
-• Mass-radius relationship and density \n
-• … and other extensions of your choice \n
+1. Kepler’s Laws
+2. Exoplanet mass determination from radial velocity
+3. Mass-radius relationship and density
+4. and other extensions of your choice
